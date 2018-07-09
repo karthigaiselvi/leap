@@ -16,9 +16,6 @@ class Numberofdigit
             }
             System.out.print(count);
         }
-        else
-        {
-            System.out.print(count);
-        }
+       
     }
 }
