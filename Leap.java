@@ -9,11 +9,11 @@ class Leap
         {
             if(n%4==0)
             {
-                System.out.print("YES");
+                System.out.print("Yes");
             }
             else
             {
-                System.out.print("NO");
+                System.out.print("No");
             }
         }
     }
